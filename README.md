@@ -118,7 +118,8 @@ was minimized to F=B'D'+BD.
 and successfully implemented using Verilog HDL.
 
 ## OUTPUT
-![Uploading WhatsApp Image 2026-11-06 at 7.35.52 PM.jpeg…]()
+<img width="1600" height="900" alt="WhatsApp Image 2026-11-06 at 7 35 52 PM" src="https://github.com/user-attachments/assets/c93b40cc-7eae-4a95-9716-5a15d654aced" />
+
 
 
 
